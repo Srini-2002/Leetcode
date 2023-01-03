@@ -6,3 +6,4 @@
 | 20.             | Valid Paranthesis   |       ✅       | 
 | 26.            | Remove Duplicates from sorted array   |       ✅       |
 | 27.             | Remove Element   |       ✅       |
+| 58.             | Length of last word   |       ✅       |
